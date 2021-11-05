@@ -23,7 +23,7 @@ public interface Operator {
 	 * 
 	 * @param opr1 - operand 1
 	 * @param opr2 - operand 2
-	 * @return
+	 * @return - a float value representing the result of the operation
 	 */
 	Float operate(Float opr1, Float opr2);
 	
